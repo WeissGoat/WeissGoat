@@ -7,9 +7,8 @@
 📝 Blog: [WeissGoat](https://weissgoat.pages.dev/) 
 
 ### 🔭 Current Focus
-* 🎮 正在开发一款 **PvE Roguelike 牌组构建 (Deckbuilder)** 游戏原型。
+* 🎮 尝试设计一款 ** 日系SLG养成 ** 游戏。
 * 🛠️ 正在构建 **PromptManager** —— 一款基于 Python 的 AI 提示词管理工具。
-* ✍️ 持续在基于 **Hugo** 构建的个人博客上记录开发日志与技术心得。
 
 ### 🌱 Learning & Exploring
 * 学习 **Go** 语言及其在后端开发中的应用ing。
