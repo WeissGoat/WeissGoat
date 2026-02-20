@@ -4,7 +4,7 @@
 
 我是一名程序员与独立游戏开发者。致力于探索更有趣的玩法设计与更高效的开发工具。
 
-📝 Blog: [WeissGoat](https://weissgoat.github.io/WBlog) 
+📝 Blog: [WeissGoat](https://weissgoat.pages.dev/) 
 
 ### 🔭 Current Focus
 * 🎮 正在开发一款 **PvE Roguelike 牌组构建 (Deckbuilder)** 游戏原型。
