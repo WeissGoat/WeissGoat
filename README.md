@@ -7,7 +7,7 @@
 📝 Blog: [WeissGoat](https://weissgoat.pages.dev/) 
 
 ### 🔭 Current Focus
-* 🎮 尝试设计一款 ** 日系SLG养成 ** 游戏。
+* 🎮 尝试设计一款 日系SLG养成 游戏。
 * 🛠️ 正在构建 **PromptManager** —— 一款基于 Python 的 AI 提示词管理工具。
 
 ### 🌱 Learning & Exploring
