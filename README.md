@@ -7,7 +7,7 @@
 📝 Blog: [WeissGoat](https://weissgoat.pages.dev/) 
 
 ### 🔭 Current Focus
-* 🎮 尝试设计一款 日系SLG养成 游戏。
+* 🎮 设计一款 日系SLG养成 游戏。
 * 🛠️ 正在构建 **PromptManager** —— 一款基于 Python 的 AI 提示词管理工具。
 
 ### 🌱 Learning & Exploring
@@ -37,8 +37,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium" alt="Top Languages" />
 </p>
 -->
+
+### 🎯 Hobbies & Interests
+* 🎮 喜欢SLG, 老P社玩家(最爱 欧陆风云4, 群星, 十字军之王...), 还爱日系JRPG
+* 🎨 喜欢捣鼓 AI 绘画, 动画, tts, llm，尝试生成各种有趣的作品。
+* 📺 喜欢动漫
+* ✈️ 喜欢旅游
+* 📺 喜欢历史, 生活中的哲学
+* ......
+
 ### 💬 Let's Connect
-- 欢迎和我交流独立游戏开发、AI 绘画技术、或者推荐好玩的 JRPG！
+- 欢迎和我交流游戏开发、AI 绘画技术、动漫、或者推荐好玩的 JRPG！
+- QQ: 260886429
 - mail: 260886429@qq.com
 
 <!--
